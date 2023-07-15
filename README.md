@@ -1,1 +1,1 @@
-# leanassal.com
+leanassal
